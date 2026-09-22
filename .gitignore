@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Environment Variables
+.env
+
+# SQLite local database (will auto-create on deployment)
+# *.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS Files
+Thumbs.db
+.DS_Store

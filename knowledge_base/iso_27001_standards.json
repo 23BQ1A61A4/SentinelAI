@@ -1,0 +1,32 @@
+[
+  {
+    "control_id": "ISO-A.5.1",
+    "title": "Policies for Information Security & AI Governance",
+    "category": "Organizational Controls",
+    "description": "Information security policy and AI usage guidelines must be defined, approved by management, published, and communicated to relevant personnel."
+  },
+  {
+    "control_id": "ISO-A.8.2",
+    "title": "Privileged Access Rights & Agent Permissions",
+    "category": "Technological Controls",
+    "description": "Allocation and use of privileged access rights for AI agents and tool integrations must be restricted and controlled."
+  },
+  {
+    "control_id": "ISO-A.8.7",
+    "title": "Protection Against Adversarial Input & Malware",
+    "category": "Technological Controls",
+    "description": "Protection against malicious inputs, adversarial prompt injections, and rogue script injection must be implemented."
+  },
+  {
+    "control_id": "ISO-A.8.12",
+    "title": "Data Leakage Prevention (DLP) & PII Protection",
+    "category": "Technological Controls",
+    "description": "Data leakage prevention measures must be applied to systems processing sensitive, customer, or confidential data."
+  },
+  {
+    "control_id": "ISO-A.8.28",
+    "title": "Secure AI Development & Guardrail Hardening",
+    "category": "Technological Controls",
+    "description": "Secure coding and robust guardrail engineering principles must be applied to software and AI systems."
+  }
+]

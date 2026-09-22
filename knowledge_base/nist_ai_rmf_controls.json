@@ -1,0 +1,26 @@
+[
+  {
+    "control_id": "AI-RMF-GOVERN-1.2",
+    "title": "AI System Accountability & Transparency",
+    "category": "Govern",
+    "description": "Clear policies, procedures, and accountability metrics are established for the AI system lifecycle."
+  },
+  {
+    "control_id": "AI-RMF-MAP-1.1",
+    "title": "Contextual Risk & Failure Mode Mapping",
+    "category": "Map",
+    "description": "Intended purpose, deployment context, and potential societal/security harms of the AI system are mapped."
+  },
+  {
+    "control_id": "AI-RMF-MEASURE-2.6",
+    "title": "Robustness, Security & Adversarial Red-Teaming",
+    "category": "Measure",
+    "description": "The AI system is rigorously tested against adversarial inputs, prompt attacks, and edge cases."
+  },
+  {
+    "control_id": "AI-RMF-MANAGE-1.3",
+    "title": "Risk Prioritization & Remediation Controls",
+    "category": "Manage",
+    "description": "Identified AI risks are prioritized and mitigated through actionable technical and organizational controls."
+  }
+]

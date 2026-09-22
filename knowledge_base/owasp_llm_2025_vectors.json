@@ -1,0 +1,32 @@
+[
+  {
+    "id": "LLM01",
+    "title": "Prompt Injection & Jailbreaking",
+    "severity": "CRITICAL",
+    "description": "Crafted prompts bypass system guardrails, altering LLM behavior via direct jailbreaking, DAN personas, or indirect prompt injections."
+  },
+  {
+    "id": "LLM02",
+    "title": "Sensitive Information Disclosure",
+    "severity": "HIGH",
+    "description": "The LLM exposes confidential information, customer PII, internal passwords, API keys, or proprietary training secrets in its outputs."
+  },
+  {
+    "id": "LLM05",
+    "title": "Improper Output Handling",
+    "severity": "CRITICAL",
+    "description": "Downstream systems blindly execute or render raw LLM outputs without sanitization, leading to XSS, SQLi, or Code Injection."
+  },
+  {
+    "id": "LLM06",
+    "title": "Excessive Agency & Tool Misuse",
+    "severity": "CRITICAL",
+    "description": "The LLM agent possesses excessive tool permissions, broad API access, or autonomous execution rights beyond intended operational boundaries."
+  },
+  {
+    "id": "LLM07",
+    "title": "System Prompt Leakage",
+    "severity": "MEDIUM",
+    "description": "Adversaries extract underlying system prompts, business logic rules, canary tokens, or security guardrail definitions."
+  }
+]
